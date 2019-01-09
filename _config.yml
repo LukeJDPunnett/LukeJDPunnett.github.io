@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Java Developer"
   location         : "London"
-  email            :
+  email            : "lukepunnett@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
